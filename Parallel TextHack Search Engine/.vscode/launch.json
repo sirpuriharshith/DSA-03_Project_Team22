@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TextHack Application",
+            "request": "launch",
+            "mainClass": "texthack.TextHackApplication",
+            "projectName": "texthack-search-engine",
+            "env": {
+                "SPRING_PROFILES_ACTIVE": "dev"
+            }
+        }
+    ]
+}

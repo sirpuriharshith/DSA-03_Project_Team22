@@ -1,0 +1,23 @@
+# Target build directories
+backend/target/
+frontend/dist/
+frontend/node_modules/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary and log files
+*.log
+*.tmp
+temp/
+scratch/

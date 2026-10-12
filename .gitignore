@@ -1,0 +1,24 @@
+# Build outputs
+**/target/
+**/dist/
+**/node_modules/
+.vscode-test/
+
+# Temporary and log files
+*.log
+*.tmp
+temp/
+scratch/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office lock files
+~$*.docx
+~$*.pptx
+
+# Archives
+*.zip
+*.tar.gz
